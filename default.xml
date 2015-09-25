@@ -371,14 +371,13 @@
   <project path="frameworks/opt/bitmap" name="CyanogenMod/android_frameworks_opt_bitmap" />
   <project path="frameworks/opt/bluetooth" name="CyanogenMod/android_frameworks_opt_bluetooth" groups="pdk-cw-fs" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
-  <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" />
   <project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
   <project path="frameworks/opt/cards" name="temasek/frameworks_opt_cards" remote="github" revision="cm-12.1" />
   <project path="frameworks/opt/chips" name="CyanogenMod/android_frameworks_opt_chips" groups="pdk-cw-fs" />
   <project path="frameworks/opt/colorpicker" name="CyanogenMod/android_frameworks_opt_colorpicker" />
   <project path="frameworks/opt/datetimepicker" name="CyanogenMod/android_frameworks_opt_datetimepicker" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
-  <project path="frameworks/opt/hardware" name="CyanogenMod/android_frameworks_opt_hardware" />
+  <project path="frameworks/opt/hardware" name="TeamBliss-LP/android_frameworks_opt_hardware" remote="github" revision="lp5.1" />
   <project path="frameworks/opt/inputmethodcommon" name="CyanogenMod/android_frameworks_opt_inputmethodcommon" />
   <project path="frameworks/opt/mms" name="CyanogenMod/android_frameworks_opt_mms" />
   <project path="frameworks/opt/net/ethernet" name="CyanogenMod/android_frameworks_opt_net_ethernet" />
@@ -465,13 +464,13 @@
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="TeamBliss-LP/android_packages_apps_Calculator" remote="github" revision="lp5.1" />
   <project path="packages/apps/Calendar" name="TeamBliss-LP/android_packages_apps_Calendar" remote="github" revision="lp5.1" />
+  <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="TeamBliss-LP/android_packages_apps_CellBroadcastReceiver" remote="github" revision="lp5.1" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMAccount" name="CyanogenMod/android_packages_apps_CMAccount" />
   <project path="packages/apps/SetupWizard" name="CyanogenMod/android_packages_apps_SetupWizard" />
   <project path="packages/apps/CMBugReport" name="CyanogenMod/android_packages_apps_CMBugreport" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
-  <!-- <project path="packages/apps/CMHome" name="CyanogenMod/android_packages_apps_CMHome" /> -->
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="TeamBliss-LP/android_packages_apps_Contacts" remote="github" revision="lp5.1" />
   <project path="packages/apps/ContactsCommon" name="TeamBliss-LP/android_packages_apps_ContactsCommon" remote="github" revision="lp5.1" />
@@ -610,14 +609,12 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" revision="cm-12.1" />
-  <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" revision="cm-12.1" />
+  <project path="vendor/cmsdk" name="TeamBliss-LP/cm_platform_sdk" remote="github" revision="lp5.1" />
 
   <!--TeamBliss repos -->
 
-  <!-- <project path="packages/apps/BlissPapers" name="TeamBliss-LP/android_packages_apps_BlissPapers" revision="lp5.0" /> -->
   <project path="packages/apps/KernelAdiutor" name="SlimSaber/KernelAdiutor" remote="github" revision="lp5.1" />
   <project path="packages/apps/FloatingActionButton" name="SlimSaber/android-floating-action-button"  remote="github" revision="lp5.1" />
-  <!-- <project path="frameworks/support" name="TeamBliss-LP/platform_frameworks_support" remote="github" revision="lp5.1" /> -->
   <project path="packages/apps/OmniSwitch" name="TeamBliss-LP/android_packages_apps_OmniSwitch" revision="lp5.1" /> 
   <project path="packages/apps/MonthCalendarWidget" name="omnirom/android_packages_apps_MonthCalendarWidget" revision="android-5.0" />
   <project path="packages/apps/ScreenRecorder" name="TeamBliss-LP/android_packages_apps_ScreenRecorder" revision="lp5.0" />
