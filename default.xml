@@ -671,7 +671,7 @@
 
   <!-- KYLEPROXX -->
   <project path="device/samsung/kyleprods" name="QwertySDuos2/android_device_samsung_kyleprods" remote="github" revision="cm-12.1" />
-  <project path="vendor/samsung/kyleproxx" name="QwertySDuos2/android_vendor_samsung_kyleproxx" remote="github" revision="master" />
   <project path="kernel/samsung/kyleproxx" name="QwertySDuos2/android_kernel_samsung_kyleproxx" remote="github" revision="cm-12.1" />
+  <project path="vendor/samsung/kyleproxx" name="Samsung-KYLEPROXX/android_vendor_samsung_kyleproxx" remote="github" revision="master" />
 
 </manifest>
