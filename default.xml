@@ -668,9 +668,10 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-linaro" name="UBERTC/arm-eabi-4.9" remote="bitbucket" revision="master" />
   <!-- project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2-linaro" name="UBERTC/arm-eabi-5.2" remote="bitbucket" revision="master" / -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-6.0-linaro" name="UBERTC/arm-eabi-6.0" remote="bitbucket" revision="master" />
-</manifest>
 
-<!-- KYLEPROXX -->
-<project path="device/samsung/kyleprods" name="QwertySDuos2/android_device_samsung_kyleprods " remote="github" revision="cm-12.1" />
-<project path="vendor/samsung/kyleproxx" name="QwertySDuos2/android_vendor_samsung_kyleproxx" remote="github" revision="master" />
-<project path="kernel/samsung/kyleproxx" name="QwertySDuos2/android_kernel_samsung_kyleproxx" remote="github" revision="cm-12.1" />
+  <!-- KYLEPROXX -->
+  <project path="device/samsung/kyleprods" name="QwertySDuos2/android_device_samsung_kyleprods" remote="github" revision="cm-12.1" />
+  <project path="vendor/samsung/kyleproxx" name="QwertySDuos2/android_vendor_samsung_kyleproxx" remote="github" revision="master" />
+  <project path="kernel/samsung/kyleproxx" name="QwertySDuos2/android_kernel_samsung_kyleproxx" remote="github" revision="cm-12.1" />
+
+</manifest>
